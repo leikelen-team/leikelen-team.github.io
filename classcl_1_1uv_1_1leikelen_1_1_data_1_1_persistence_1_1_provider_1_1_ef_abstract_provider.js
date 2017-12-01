@@ -1,0 +1,27 @@
+var classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider =
+[
+    [ "AddPersonToScene", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a0454bf78834dd155ba97499abb579104", null ],
+    [ "CloseConnection", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a36f4fd85138113656e8443e48daa8621", null ],
+    [ "CreateConnection", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a68a96418278ae9e8ef847c6fa92bf64a", null ],
+    [ "Delete", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a79f989cf4ad1b5ad8900ab212edb98ea", null ],
+    [ "DeletePerson", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a1a144f5656a84ccd18f91f9b99ad0170", null ],
+    [ "DeleteScene", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a1b2c53fe9a3cd69ed6255ed00d234c0f", null ],
+    [ "DeleteSubModal", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a78c50525d5ce932ac347dbdbf000b8cb", null ],
+    [ "ExistsPersonInScene", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#af38ccc59bb8d9ae8afbc1ecee2cd9264", null ],
+    [ "IsConnected", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a46536011944a4b8cb18fa14bc98cdd45", null ],
+    [ "LoadModal", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#af2e24a494d4650706361018978d54c5d", null ],
+    [ "LoadModals", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a24d0f2ef70707c21eff47adc0bfed3f4", null ],
+    [ "LoadPersons", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#aff9a691a74cac56cace8013aa8010a7c", null ],
+    [ "LoadScene", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a0406e227c93c702a026b6d0028a1191a", null ],
+    [ "LoadScenes", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a88f14ce6676a482b69d3d5811464eb62", null ],
+    [ "LoadSubModals", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a762279840c48fd90b96444f4cf178094", null ],
+    [ "SaveModal", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a3be71afa2e99fd9c8f3ebc25f6b9b134", null ],
+    [ "SaveNewScene", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#ad9dc11f008c45f5fe4f61095762812be", null ],
+    [ "SavePerson", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a50e988b7459ce1a4759f7bfd99d817cc", null ],
+    [ "SaveScene", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a30dec6d0b38207351ff704abfbf24cec", null ],
+    [ "SaveSubModal", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a8cb918ef2928fcb5e61722265a2f1f1d", null ],
+    [ "UpdatePerson", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#aaf7b8e1fe323b94c8857d8f2472ce070", null ],
+    [ "UpdateScene", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a10f4b55e5a070caf1155668eea568838", null ],
+    [ "UpdateSubModalType", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a74ccf02d0742755b88c16746b0959c1d", null ],
+    [ "Db", "classcl_1_1uv_1_1leikelen_1_1_data_1_1_persistence_1_1_provider_1_1_ef_abstract_provider.html#a3b4f4b74f4e5fb34dc49294eec1488e3", null ]
+];

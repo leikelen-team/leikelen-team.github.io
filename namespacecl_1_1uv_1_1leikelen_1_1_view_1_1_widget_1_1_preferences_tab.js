@@ -1,0 +1,7 @@
+var namespacecl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_preferences_tab =
+[
+    [ "PreferencesBD", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_preferences_tab_1_1_preferences_b_d.html", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_preferences_tab_1_1_preferences_b_d" ],
+    [ "PreferencesColor", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_preferences_tab_1_1_preferences_color.html", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_preferences_tab_1_1_preferences_color" ],
+    [ "PreferencesGeneral", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_preferences_tab_1_1_preferences_general.html", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_preferences_tab_1_1_preferences_general" ],
+    [ "PreferencesPersonColors", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_preferences_tab_1_1_preferences_person_colors.html", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_preferences_tab_1_1_preferences_person_colors" ]
+];

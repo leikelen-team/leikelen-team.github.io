@@ -1,0 +1,4 @@
+var classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_learning_model =
+[
+    [ "Star2", "structcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_learning_model_1_1_star2.html", "structcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_learning_model_1_1_star2" ]
+];

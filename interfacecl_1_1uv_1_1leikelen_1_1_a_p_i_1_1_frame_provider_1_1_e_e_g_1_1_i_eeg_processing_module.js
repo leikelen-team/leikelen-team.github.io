@@ -1,0 +1,4 @@
+var interfacecl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_e_e_g_1_1_i_eeg_processing_module =
+[
+    [ "EegListener", "interfacecl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_e_e_g_1_1_i_eeg_processing_module.html#ad06e1344e1dbeb76939b97a7de4ed15c", null ]
+];

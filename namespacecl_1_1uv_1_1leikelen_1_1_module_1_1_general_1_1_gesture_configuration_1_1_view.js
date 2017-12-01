@@ -1,0 +1,6 @@
+var namespacecl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view =
+[
+    [ "AddOrEditPosture", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view_1_1_add_or_edit_posture.html", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view_1_1_add_or_edit_posture" ],
+    [ "Posture", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view_1_1_posture.html", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view_1_1_posture" ],
+    [ "PostureCRUD", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view_1_1_posture_c_r_u_d.html", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view_1_1_posture_c_r_u_d" ]
+];
