@@ -1,0 +1,5 @@
+var classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_view_1_1_trainer_scene_selector =
+[
+    [ "TrainerSceneSelector", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_view_1_1_trainer_scene_selector.html#aaa9ac56e4ca42efda710bfa73c012b67", null ],
+    [ "Clone", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_view_1_1_trainer_scene_selector.html#acff8ba6cc200ad96e1b02b0e01cd96a1", null ]
+];

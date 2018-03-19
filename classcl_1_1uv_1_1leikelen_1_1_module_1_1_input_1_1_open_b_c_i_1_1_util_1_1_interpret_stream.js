@@ -1,4 +1,0 @@
-var classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_util_1_1_interpret_stream =
-[
-    [ "interpretBinaryStream", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_util_1_1_interpret_stream.html#aa569361e22c5e90c5b3d04c2d40a5b30", null ]
-];

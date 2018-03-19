@@ -1,0 +1,5 @@
+var namespacecl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_kinect =
+[
+    [ "IKinectProcessingModule", "interfacecl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_kinect_1_1_i_kinect_processing_module.html", "interfacecl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_kinect_1_1_i_kinect_processing_module" ],
+    [ "KinectGestureFrameArrivedArgs", "classcl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_kinect_1_1_kinect_gesture_frame_arrived_args.html", "classcl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_kinect_1_1_kinect_gesture_frame_arrived_args" ]
+];

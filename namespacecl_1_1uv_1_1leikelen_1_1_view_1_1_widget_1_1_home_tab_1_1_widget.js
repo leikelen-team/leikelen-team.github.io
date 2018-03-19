@@ -1,6 +1,0 @@
-var namespacecl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_home_tab_1_1_widget =
-[
-    [ "EventGraphControl", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_home_tab_1_1_widget_1_1_event_graph_control.html", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_home_tab_1_1_widget_1_1_event_graph_control" ],
-    [ "IntervalGraphControl", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_home_tab_1_1_widget_1_1_interval_graph_control.html", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_home_tab_1_1_widget_1_1_interval_graph_control" ],
-    [ "TimeModel", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_home_tab_1_1_widget_1_1_time_model.html", "classcl_1_1uv_1_1leikelen_1_1_view_1_1_widget_1_1_home_tab_1_1_widget_1_1_time_model" ]
-];

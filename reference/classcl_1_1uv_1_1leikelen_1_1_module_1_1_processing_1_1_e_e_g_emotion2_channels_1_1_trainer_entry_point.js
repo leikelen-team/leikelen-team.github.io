@@ -1,0 +1,4 @@
+var classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_trainer_entry_point =
+[
+    [ "TrainerEntryPoint", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_trainer_entry_point.html#a55cf49f4d012b585f8aa0187add6814c", null ]
+];

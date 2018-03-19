@@ -1,5 +1,0 @@
-var classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_view_1_1_configuration_window =
-[
-    [ "ConfigurationWindow", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_view_1_1_configuration_window.html#a9af44e1f9a87cb69adb26fb99021d220", null ],
-    [ "Clone", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_view_1_1_configuration_window.html#aeeb40decdb49e1b9381d6f9208084811", null ]
-];

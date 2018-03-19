@@ -1,5 +1,0 @@
-var searchData=
-[
-  ['skeletonimagearrived',['SkeletonImageArrived',['../interfacecl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_module_1_1_input_1_1_i_video.html#a9e7f7fceae651c7e941104fd2829d9b2',1,'cl.uv.leikelen.API.Module.Input.IVideo.SkeletonImageArrived()'],['../classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_kinect_1_1_skeleton_color_video_viewer.html#a53e54e0d54c0653b5575d6c312fd3017',1,'cl.uv.leikelen.Module.Input.Kinect.SkeletonColorVideoViewer.SkeletonImageArrived()']]],
-  ['statuschanged',['StatusChanged',['../interfacecl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_module_1_1_input_1_1_i_monitor.html#a8a773265ead55abf7b4a252a23a633fb',1,'cl.uv.leikelen.API.Module.Input.IMonitor.StatusChanged()'],['../classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_kinect_1_1_monitor.html#af5365b7d1745064c1fd78aaad193054b',1,'cl.uv.leikelen.Module.Input.Kinect.Monitor.StatusChanged()'],['../classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_monitor.html#ad22ee3d8ae08b0044988700bb84472f7',1,'cl.uv.leikelen.Module.Input.OpenBCI.Monitor.StatusChanged()']]]
-];

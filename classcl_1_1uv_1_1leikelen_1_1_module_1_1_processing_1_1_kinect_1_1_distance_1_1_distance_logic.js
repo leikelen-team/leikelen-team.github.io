@@ -1,4 +1,0 @@
-var classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_kinect_1_1_distance_1_1_distance_logic =
-[
-    [ "_bodyReader_FrameArrived", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_kinect_1_1_distance_1_1_distance_logic.html#aaefa62adc2bf3b8ad8b9fb3db48cfd0c", null ]
-];

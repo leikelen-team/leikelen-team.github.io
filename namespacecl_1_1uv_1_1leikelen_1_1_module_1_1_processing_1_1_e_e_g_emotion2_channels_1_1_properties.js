@@ -1,4 +1,0 @@
-var namespacecl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_properties =
-[
-    [ "EEGEmotion2Channels", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_processing_1_1_e_e_g_emotion2_channels_1_1_properties_1_1_e_e_g_emotion2_channels.html", null ]
-];

@@ -1,7 +1,0 @@
-var namespacecl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view =
-[
-    [ "ConfigurePositions", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view_1_1_configure_positions.html", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view_1_1_configure_positions" ],
-    [ "GraphForm", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view_1_1_graph_form.html", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view_1_1_graph_form" ],
-    [ "LiveGraphTab", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view_1_1_live_graph_tab.html", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view_1_1_live_graph_tab" ],
-    [ "OpenBCIWindow", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view_1_1_open_b_c_i_window.html", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view_1_1_open_b_c_i_window" ]
-];

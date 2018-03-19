@@ -1,0 +1,6 @@
+var namespacecl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration =
+[
+    [ "Properties", "namespacecl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_properties.html", "namespacecl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_properties" ],
+    [ "View", "namespacecl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view.html", "namespacecl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view" ],
+    [ "GestureConfigurationEntryPoint", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_gesture_configuration_entry_point.html", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_gesture_configuration_entry_point" ]
+];

@@ -1,0 +1,5 @@
+var classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view_1_1_add_or_edit_posture =
+[
+    [ "AddOrEditPosture", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view_1_1_add_or_edit_posture.html#ad08c32a028250d9902abf0f083753108", null ],
+    [ "AddOrEditPosture", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_view_1_1_add_or_edit_posture.html#a53c10048d1a54a14cb46ae2632b873bc", null ]
+];
