@@ -1,4 +1,0 @@
-var classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view_1_1_configure_positions =
-[
-    [ "ConfigurePositions", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_input_1_1_open_b_c_i_1_1_view_1_1_configure_positions.html#a880577a74d4f1f4ecd16c444e28ff8d6", null ]
-];

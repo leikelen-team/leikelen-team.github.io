@@ -1,6 +1,0 @@
-var namespacecl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_e_e_g =
-[
-    [ "EegChannel", "structcl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_e_e_g_1_1_eeg_channel.html", "structcl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_e_e_g_1_1_eeg_channel" ],
-    [ "EegFrameArrivedEventArgs", "classcl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_e_e_g_1_1_eeg_frame_arrived_event_args.html", "classcl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_e_e_g_1_1_eeg_frame_arrived_event_args" ],
-    [ "IEegProcessingModule", "interfacecl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_e_e_g_1_1_i_eeg_processing_module.html", "interfacecl_1_1uv_1_1leikelen_1_1_a_p_i_1_1_frame_provider_1_1_e_e_g_1_1_i_eeg_processing_module" ]
-];

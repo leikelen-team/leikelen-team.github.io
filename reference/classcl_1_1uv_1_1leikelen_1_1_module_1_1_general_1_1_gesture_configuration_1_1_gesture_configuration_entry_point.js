@@ -1,4 +1,0 @@
-var classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_gesture_configuration_entry_point =
-[
-    [ "GestureConfigurationEntryPoint", "classcl_1_1uv_1_1leikelen_1_1_module_1_1_general_1_1_gesture_configuration_1_1_gesture_configuration_entry_point.html#ab6e66d46784b42836a77423fc9db21db", null ]
-];
