@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2017.12.30.2" projectFile="C:\Users\Erick\Documents\Tesis\Leikelen\DevDocumentation\DevDocumentation.shfbproj" started="21-05-2018 20:50:54">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2017.12.30.2" projectFile="C:\Users\Erick\Documents\Tesis\Leikelen\DevDocumentation\DevDocumentation.shfbproj" started="22-07-2018 18:37:13">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -22,7 +22,7 @@ Source: C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\Leikelen.csproj
     Found project &#39;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\Leikelen.csproj&#39;
 
 Parsing project files
-    Found assembly &#39;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin\Debug\Leikelen.exe&#39;
+    Found assembly &#39;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin\Release\Leikelen.exe&#39;
 
 References to include (excluding framework assemblies):
     Accord, Version=3.8.0.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL
@@ -95,24 +95,28 @@ References to include (excluding framework assemblies):
     System.Text.Encodings.Web, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL
     System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL
     WriteableBitmapEx.Wpf, Version=1.5.0.0, Culture=neutral, PublicKeyToken=50375ca6144f1c69, processorArchitecture=MSIL
+    xunit.abstractions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL
+    xunit.assert, Version=2.3.1.3858, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL
+    xunit.core, Version=2.3.1.3858, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL
+    xunit.execution.desktop, Version=2.3.1.3858, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL
     YamlDotNet, Version=4.2.2.0, Culture=neutral, PublicKeyToken=ec19458f3c15af5e, processorArchitecture=MSIL
 
 Copying XML comments files
-    C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin\Debug\Leikelen.xml -&gt; C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\Leikelen.xml
+    C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin\Release\Leikelen.xml -&gt; C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\Leikelen.xml
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, Ingl&#233;s (Estados Unidos))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00,1440
+</plugIn>    Last step completed in 00:00:00,1271
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00,0880
+    Last step completed in 00:00:00,0304
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - GenerateRefInfo.proj]
-Compilaci&#162;n iniciada a las 21-05-2018 20:51:12.
+Compilaci&#162;n iniciada a las 22-07-2018 18:37:25.
 Proyecto &quot;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\GenerateRefInfo.proj&quot; en nodo 1 (destinos predeterminados).
 PrepareForBuild:
   Creando directorio &quot;obj\MCD\Debug\&quot;.
@@ -124,11 +128,11 @@ GenerateRefInfo:
   Copyright &#184; 2006-2017, Microsoft Corporation, All Rights Reserved.
   Portions Copyright &#184; 2006-2016, Eric Woodruff, All Rights Reserved.
   No source code context base path specified.  Source context information is unavailable.
-  Loaded 1 assemblies for reflection and 124 dependency assemblies.
+  Loaded 1 assemblies for reflection and 128 dependency assemblies.
   Using automatic redirect &#39;Microsoft.Extensions.Logging.Abstractions, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60&#39; in place of &#39;Microsoft.Extensions.Logging.Abstractions, Version=1.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60&#39;
   Using automatic redirect &#39;Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60&#39; in place of &#39;Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60&#39;
   Using automatic redirect &#39;System.Interactive.Async, Version=3.0.1000.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263&#39; in place of &#39;System.Interactive.Async, Version=3.0.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263&#39;
-  Wrote information on 44 namespaces, 172 types, and 912 members
+  Wrote information on 44 namespaces, 175 types, and 945 members
   Copiando el archivo de &quot;reflection.org&quot; en &quot;reflection.all&quot;.
   XslTransform (v2017.12.30.2)
   Copyright &#184; 2006-2017, Microsoft Corporation, All Rights Reserved.
@@ -136,12 +140,12 @@ GenerateRefInfo:
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddXamlSyntaxData.xsl&#39;.
 Compilaci&#162;n del proyecto terminada &quot;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\GenerateRefInfo.proj&quot; (destinos predeterminados).
-    Last step completed in 00:00:09,7312
+    Last step completed in 00:00:11,7353
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - TransformManifest.proj]
-Compilaci&#162;n iniciada a las 21-05-2018 20:51:22.
+Compilaci&#162;n iniciada a las 22-07-2018 18:37:37.
 Proyecto &quot;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\TransformManifest.proj&quot; en nodo 1 (destinos predeterminados).
 TransformManifest:
   XslTransform (v2017.12.30.2)
@@ -158,11 +162,11 @@ TransformManifest:
   Portions Copyright &#184; 2006-2016, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
 Compilaci&#162;n del proyecto terminada &quot;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\TransformManifest.proj&quot; (destinos predeterminados).
-    Last step completed in 00:00:22,0716
+    Last step completed in 00:00:23,5818
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:01,9700
+    Last step completed in 00:00:01,7500
 </buildStep>
 <buildStep step="GenerateInheritedDocumentation">
 Generating inherited documentation...
@@ -173,7 +177,12 @@ E-Mail: Eric@EWoodruff.us
 
 Reflection information will be retrieved from &#39;reflection.xml&#39;
 Inherited documentation will be written to &#39;_InheritedDocs_.xml&#39;
+Indexing C:\Program Files (x86)\Reference Assemblies\Microsoft\FSharp\.NETFramework\v4.0\4.4.0.0\*.xml
 Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\YamlDotNet.xml
+Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\xunit.execution.desktop.xml
+Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\xunit.core.xml
+Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\xunit.assert.xml
+Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\xunit.abstractions.xml
 Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\WriteableBitmapEx.Wpf.xml
 Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\System.Threading.Tasks.Extensions.xml
 Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\System.Text.Encodings.Web.xml
@@ -226,14 +235,17 @@ Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlat
 Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\Accord.MachineLearning.xml
 Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\Accord.xml
 Indexing C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\Leikelen.xml
-Indexed 48232 members in 53 file(s).  53 file(s) to scan for &lt;inheritdoc /&gt; tags.
+Indexed 51493 members in 58 file(s).  57 file(s) to scan for &lt;inheritdoc /&gt; tags.
 Merging inherited documentation...
 
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.General.GestureConfiguration.View.AddOrEditPosture.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.General.GestureConfiguration.View.PostureCRUD.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.Input.OpenBCI.View.ConfigurePositions.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
+SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.Input.OpenBCI.View.GraphControl.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.Input.OpenBCI.View.LiveGraphTab.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
+SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.Input.OpenBCI.View.OpenBCIWindow.System#ICloneable#Clone&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.Input.OpenBCI.View.OpenBCIWindow.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
+SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.View.ConfigurationWindow.System#ICloneable#Clone&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.View.ConfigurationWindow.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.View.TrainerFileSelector.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.View.TrainerSceneSelector.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
@@ -246,7 +258,6 @@ SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.View.C
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.View.Export.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.View.Home.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.View.Preferences.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
-SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.View.Widget.PersonCard.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.View.Widget.HomeTab.TabGraph.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.View.Widget.HomeTab.TabInterval.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.View.Widget.HomeTab.TabScene.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
@@ -258,7 +269,7 @@ SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.View.W
 SHFB: Warning GID0004: No comments found for member &#39;M:cl.uv.leikelen.View.Widget.PreferencesTab.PreferencesPersonColors.System#Windows#Markup#IComponentConnector#Connect(System.Int32,System.Object)&#39;
 
 Documentation merged successfully
-    Last step completed in 00:00:04,8057
+    Last step completed in 00:00:04,3142
 </buildStep>
 <buildStep step="CopyConceptualContent">
 Copying conceptual content...
@@ -274,14 +285,14 @@ Generating conceptual topic files
     C:\Users\Erick\Documents\Tesis\Leikelen\DevDocumentation\Content\VersionHistory\VersionHistory.aml -&gt; C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\ddueXml\ed1dd38c-4898-4e30-a6e5-7febf5e82893.xml
     Parsing topic file &#39;C:\Users\Erick\Documents\Tesis\Leikelen\DevDocumentation\Content\VersionHistory\v1.0.0.0.aml&#39;
     C:\Users\Erick\Documents\Tesis\Leikelen\DevDocumentation\Content\VersionHistory\v1.0.0.0.aml -&gt; C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\ddueXml\f65a9fa1-9551-4761-96d0-069968095fc7.xml
-    Last step completed in 00:00:00,3180
+    Last step completed in 00:00:00,4907
 </buildStep>
 <buildStep step="CreateConceptualTopicConfigs">
 Creating conceptual topic configuration files...
     Companion files
     _ContentMetadata_.xml
     Merging topic IDs into manifest.xml
-    Last step completed in 00:00:00,0660
+    Last step completed in 00:00:00,1000
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -290,12 +301,12 @@ No additional content to copy
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00,0080
+    Last step completed in 00:00:00,0091
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - GenerateIntermediateTOC.proj]
-Compilaci&#162;n iniciada a las 21-05-2018 20:51:51.
+Compilaci&#162;n iniciada a las 22-07-2018 18:38:07.
 Proyecto &quot;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\GenerateIntermediateTOC.proj&quot; en nodo 1 (destinos predeterminados).
 GenerateIntermediateTOC:
   XslTransform (v2017.12.30.2)
@@ -304,12 +315,12 @@ GenerateIntermediateTOC:
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
 Compilaci&#162;n del proyecto terminada &quot;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\GenerateIntermediateTOC.proj&quot; (destinos predeterminados).
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:01,7901
+    Last step completed in 00:00:01,8701
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:01,9431
+    Last step completed in 00:00:02,3370
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -317,12 +328,12 @@ C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\docu
   Updating reference topic configurations.
   Updating conceptual topic configurations.
     Removing unused ExampleComponent.
-    Last step completed in 00:00:00,0259
+    Last step completed in 00:00:00,0240
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
 [C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\MSBuild.exe - BuildTopics.proj]
-Compilaci&#162;n iniciada a las 21-05-2018 20:51:55.
+Compilaci&#162;n iniciada a las 22-07-2018 18:38:11.
 Proyecto &quot;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj&quot; en nodo 1 (destinos predeterminados).
 BuildTopics:
   BuildAssembler (v2017.12.30.2)
@@ -365,6 +376,7 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Gen
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.GeneralSettings.IndexOfSceneInFile] Unknown reference link target &#39;T:Config.Net.Option`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.GeneralSettings.IntervalsGraphMinHeight] Unknown reference link target &#39;T:Config.Net.Option`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.GeneralSettings.Language] Unknown reference link target &#39;T:Config.Net.Option`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.GeneralSettings.MaxNumberPointsInEventGraph] Unknown reference link target &#39;T:Config.Net.Option`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:cl.uv.leikelen.GeneralSettings.OnConfigure(Config.Net.IConfigConfiguration)] Unknown reference link target &#39;T:Config.Net.IConfigConfiguration&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.GeneralSettings.SecsWaitPdfReport] Unknown reference link target &#39;T:Config.Net.Option`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.GeneralSettings.TmpDirectory] Unknown reference link target &#39;T:Config.Net.Option`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
@@ -1155,6 +1167,7 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [T:cl.uv.leikelen.Mod
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:cl.uv.leikelen.Module.Input.OpenBCI.OpenBCISettings] Unknown reference link target &#39;T:Config.Net.SettingsContainer&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:cl.uv.leikelen.Module.Input.OpenBCI.OpenBCISettings] Unknown reference link target &#39;M:Config.Net.SettingsContainer.Write``1(Config.Net.Option{``0},``0)&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:cl.uv.leikelen.Module.Input.OpenBCI.OpenBCISettings] Unknown reference link target &#39;T:Config.Net.SettingsContainer&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:cl.uv.leikelen.Module.Input.OpenBCI.OpenBCISettings] Unknown reference link target &#39;T:Config.Net.SettingsContainer&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Methods.T:cl.uv.leikelen.Module.Input.OpenBCI.OpenBCISettings] Unknown reference link target &#39;M:Config.Net.SettingsContainer.OnConfigure(Config.Net.IConfigConfiguration)&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Methods.T:cl.uv.leikelen.Module.Input.OpenBCI.OpenBCISettings] Unknown reference link target &#39;M:Config.Net.SettingsContainer.OnReadOption(Config.Net.Option,System.Object)&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [Methods.T:cl.uv.leikelen.Module.Input.OpenBCI.OpenBCISettings] Unknown reference link target &#39;T:Config.Net.SettingsContainer&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
@@ -1175,6 +1188,8 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Mod
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Module.Input.OpenBCI.OpenBCISettings.PositionChannel6] Unknown reference link target &#39;T:Config.Net.Option`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Module.Input.OpenBCI.OpenBCISettings.PositionChannel7] Unknown reference link target &#39;T:Config.Net.Option`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Module.Input.OpenBCI.OpenBCISettings.PositionChannel8] Unknown reference link target &#39;T:Config.Net.Option`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:cl.uv.leikelen.Module.Input.OpenBCI.View.GraphControl.ChartValues] Unknown reference link target &#39;T:LiveCharts.ChartValues`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [P:cl.uv.leikelen.Module.Input.OpenBCI.View.GraphControl.SeriesColors] Unknown reference link target &#39;T:LiveCharts.Wpf.ColorsCollection&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.EEGEmoProc2ChSettings] Unknown reference link target &#39;T:Config.Net.SettingsContainer&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.EEGEmoProc2ChSettings] Unknown reference link target &#39;M:Config.Net.SettingsContainer.OnConfigure(Config.Net.IConfigConfiguration)&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [T:cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.EEGEmoProc2ChSettings] Unknown reference link target &#39;M:Config.Net.SettingsContainer.OnReadOption(Config.Net.Option,System.Object)&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
@@ -1206,25 +1221,20 @@ BuildAssembler : warning : ResolveReferenceLinksComponent: [M:cl.uv.leikelen.Mod
 BuildAssembler : warning : ResolveReferenceLinksComponent: [M:cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.LearningModel.Train(System.Collections.Generic.Dictionary{cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.TagType,System.Collections.Generic.List{System.Collections.Generic.List{System.Double[]}}})] Unknown reference link target &#39;T:Accord.Statistics.Kernels.Gaussian&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.LearningModel.Star2.svm] Unknown reference link target &#39;T:Accord.MachineLearning.VectorMachines.MulticlassSupportVectorMachine`1&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Module.Processing.EEGEmotion2Channels.LearningModel.Star2.svm] Unknown reference link target &#39;T:Accord.Statistics.Kernels.Gaussian&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Module.Processing.Kinect.AccurateProxemic.AccurateProxemicLogic._bodies] Unknown reference link target &#39;T:KinectEx.CustomBody&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Module.Processing.Kinect.HeadAngle.HeadAngleLogic._bodies] Unknown reference link target &#39;T:KinectEx.CustomBody&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Module.Processing.Kinect.Proxemic.ProxemicLogic._bodies] Unknown reference link target &#39;T:KinectEx.CustomBody&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
-BuildAssembler : warning : ResolveReferenceLinksComponent: [F:cl.uv.leikelen.Module.Processing.Kinect.ShouldersAngle.ShouldersAngleLogic._bodies] Unknown reference link target &#39;T:KinectEx.CustomBody&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [P:cl.uv.leikelen.View.Widget.HomeTab.Widget.EventGraphControl.SeriesCollection] Unknown reference link target &#39;T:LiveCharts.SeriesCollection&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
 BuildAssembler : warning : ResolveReferenceLinksComponent: [P:cl.uv.leikelen.View.Widget.HomeTab.Widget.IntervalGraphControl.SeriesCollection] Unknown reference link target &#39;T:LiveCharts.SeriesCollection&#39;. [C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj]
-  Processed 1438 topic(s)
+  Processed 1475 topic(s)
   882 warning(s)
   CopyFromIndexComponent: &quot;metadata&quot; in-memory cache entries used: 1 of 15.
   ResolveArtLinksComponent: Copying media files...
-  ResolveReferenceLinksComponent: 3 entries added to the MSDN content ID cache.  New cache size: 1108 entries
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 10 of 15.
   CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 3 of 30.
 Compilaci&#162;n del proyecto terminada &quot;C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\BuildTopics.proj&quot; (destinos predeterminados).
-    Last step completed in 00:01:09,5408
+    Last step completed in 00:01:20,5085
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00,0510
+    Last step completed in 00:00:00,0309
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -1236,11 +1246,11 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing website files in C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\Output\Website
-Processed 1438 HTML files
+Processed 1475 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\WebKI.xml
 Saving website table of contents to C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\WebTOC.xml
-    Last step completed in 00:00:04,3222
+    Last step completed in 00:00:06,7327
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -1322,18 +1332,18 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\clipboard.min.js -&gt; C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\Output\Website\scripts\clipboard.min.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Erick\Documents\Tesis\Leikelen\Leikelen.Core\bin_files\anyPlatform\documentation\web\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:04,5007
+    Last step completed in 00:00:05,3867
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00,0020
+    Last step completed in 00:00:00,0030
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:10,0395
+</plugIn>    Last step completed in 00:00:14,4379
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
@@ -1341,16 +1351,17 @@ Copying website files to output folder...
 Copied 500 files
 Copied 1000 files
 Copied 1500 files
-Copied 1977 files for the website content
-    Last step completed in 00:00:34,3139
+Copied 2000 files
+Copied 2021 files for the website content
+    Last step completed in 00:00:45,0702
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:06,8751
+    Last step completed in 00:00:05,8850
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 21-05-2018 20:54:04.  Total time: 00:03:10,0810
+Build completed successfully at 22-07-2018 18:40:49.  Total time: 00:03:36,4572
 
 </buildStep>
 </shfbBuild>
